@@ -1,7 +1,7 @@
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
-
+NOTE: This is the final code. If you want to run the project just pulle the project down install dependencies using npm install and after installing run npm run dev command. If there is notting being shown then make a pull request to my strapi api repo run the command npm install and after that npm  run dev the u will see a admin panel that you have to log into. After this setup the code will run end to end and ypu will see the data coming 
 ### `develop`
 
 Start your Strapi application with autoReload enabled. [Learn more](https://docs.strapi.io/dev-docs/cli#strapi-develop)
